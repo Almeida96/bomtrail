@@ -1,0 +1,9 @@
+.gradle/
+.venv/
+build/
+.idea/
+__pycache__/
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
